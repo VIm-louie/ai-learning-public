@@ -1,0 +1,16 @@
+site_name: AI 学习笔记
+site_description: "AI 学习笔记与项目"
+site_author: "VIm-louie"
+
+nav:
+  - 首页: docs/index.md
+  - 课程笔记:
+      - 入门: docs/ai_intro.md
+      - 深度学习: docs/dl.md
+
+theme:
+  name: material
+  language: zh
+
+plugins:
+  - search
